@@ -5,7 +5,7 @@
 
 
 # root path
-path: /Volumes/Lexar/肺ガン/data_l  # データセットのルートディレクトリ
+path: data_l  # データセットのルートディレクトリ
 
 # train, val, test sets
 train: images/train  # -> /Volumes/Lexar/肺ガン/data_l/images/train に対応
