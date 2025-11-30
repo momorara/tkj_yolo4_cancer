@@ -1,0 +1,15 @@
+# train: /Volumes/Lexar/肺ガン/data_l/images/train
+# val: /Volumes/Lexar/肺ガン/data_l/images/val
+# nc: 4
+# names: ["adeno", "largecell", "squamouscell", "normal"]
+
+
+# root path
+path: /Volumes/Lexar/肺ガン/data_l  # データセットのルートディレクトリ
+
+# train, val, test sets
+train: images/train  # -> /Volumes/Lexar/肺ガン/data_l/images/train に対応
+val: images/valid      
+test: images/test    # オプション
+nc: 4
+names: ["adeno", "largecell", "squamouscell", "normal"]

@@ -1,0 +1,19 @@
+事前にarchive.zip をダウンロードしていますが、
+以下がダウンロード手順です。
+
+
+次のURLをブラウザで開きダウンロードして下さい。
+Kaggleのサインインが必要な場合はしてください。
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+ダウンロードフォルダにできた　archive.zip　を
+yoloフォルダに移動して下さい。
+
+ターミナルを起動して、yoloフォルダに移動して
+unzip archive.zip として、解凍して下さい。
+Dataというフォルダができます。
+
+その中に　写真が入っています。
+
+データのライセンスは
+CC0 1.0 Universal
+です。
