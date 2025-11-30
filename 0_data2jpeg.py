@@ -51,7 +51,7 @@ from PIL import Image
 import shutil
 
 # 元データと出力先
-SRC_ROOT = "data"
+SRC_ROOT = "Data"
 DST_ROOT = "data_j"
 
 # クラス名マッピング
